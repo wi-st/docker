@@ -20,6 +20,6 @@ InfluxDB: localhost:8086
 
 Telegraf wurde kein Port zugewiesen
 
-###getestet unter 
+##getestet unter 
 - Windows 10 mit Docker Desktop
 - Linux VM Debian 12 mit Desktop
