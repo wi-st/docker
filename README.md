@@ -1,3 +1,5 @@
+## Readme
+
 docker compose up -d
 
 Beim Starten werden alle benötigten Images bei Bedarf aus dem Internet geladen und gestartet
@@ -17,3 +19,7 @@ Grafana: localhost:3000
 InfluxDB: localhost:8086
 
 Telegraf wurde kein Port zugewiesen
+
+###getestet unter 
+- Windows 10 mit Docker Desktop
+- Linux VM Debian 12 mit Desktop
